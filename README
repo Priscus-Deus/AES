@@ -5,4 +5,10 @@ Crypto
 pythonproject1
 Я кирилл
 
+<<<<<<< HEAD
 HEAD -> testing2
+=======
+
+HEAD -> testing
+
+>>>>>>> f73ad84139e09e26a635586d96dd7d0184f87d70
